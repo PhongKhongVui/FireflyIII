@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cash account</name>
+   <tag></tag>
+   <elementGuidId>8c85b4e2-20c7-460d-82e1-7ace6d0cb0f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.dropdown.open > ul.dropdown-menu > li.active > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='transaction-info']/div[3]/div[2]/section/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d0284618-b894-4b6c-8bcc-9ecdb7a30a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c1a71de4-8553-44a0-80a7-dee8c0017d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cash account</value>
+      <webElementGuid>0fba01fe-2db7-4029-9b02-905c273552d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction-info&quot;)/div[@class=&quot;form-group has-error&quot;]/div[@class=&quot;col-sm-12&quot;]/section[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;active&quot;]/a[1]</value>
+      <webElementGuid>3959d5cd-4328-4338-93ea-60a1147a1868</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='transaction-info']/div[3]/div[2]/section/ul/li/a</value>
+      <webElementGuid>b2c2e773-2f14-4f11-99ac-6648c5586922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản đích'])[1]/following::a[1]</value>
+      <webElementGuid>e34ee2bb-d321-4382-8d71-57935a85d424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HCAD'])[1]/following::a[1]</value>
+      <webElementGuid>a928a8b7-44aa-463c-90c7-9acf9df2b33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HCAD (119,00 $)'])[2]/preceding::a[1]</value>
+      <webElementGuid>a155d0a6-8efe-4221-839c-8b6c9968c670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/section/ul/li/a</value>
+      <webElementGuid>5ff75ac7-17e1-4957-b389-0e47de4374b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Cash account' or . = 'Cash account')]</value>
+      <webElementGuid>fbea0827-361a-44bf-9e12-a1a4a1efe004</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

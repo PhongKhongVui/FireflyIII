@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_bill</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>d965a292-34e9-4982-a414-ede79d6bf81e</testSuiteGuid>
+   <testCaseLink>
+      <guid>2cb166e9-c048-420e-9a63-c1aba3cab8aa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_bill</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>812cee87-a027-4a9d-b69e-5781ed2a133c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_bill</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>812cee87-a027-4a9d-b69e-5781ed2a133c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>b0fca90b-6be9-4c23-838d-239700d526ec</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>812cee87-a027-4a9d-b69e-5781ed2a133c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Minium</value>
+         <variableId>c510fcc3-3ea2-4187-a6f6-965b9e1bd001</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>812cee87-a027-4a9d-b69e-5781ed2a133c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Maxium</value>
+         <variableId>ebfd08d3-da2a-4d64-b139-30700028de1d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>812cee87-a027-4a9d-b69e-5781ed2a133c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Repeats</value>
+         <variableId>6624a943-78b6-414c-a0bd-68faca91a276</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>812cee87-a027-4a9d-b69e-5781ed2a133c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Group</value>
+         <variableId>df28b48f-02c9-48ed-8b9f-115bcf797ed7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>812cee87-a027-4a9d-b69e-5781ed2a133c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Skip</value>
+         <variableId>ac6de114-73ae-43d8-8787-cb86daaf9ba5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

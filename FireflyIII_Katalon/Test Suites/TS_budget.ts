@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_budget</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>b8ebbb95-0325-45b8-891d-9a5d6abdeac4</testSuiteGuid>
+   <testCaseLink>
+      <guid>12e0b877-945f-47a9-b19a-6749ad836645</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_budget</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1e13b1c6-661e-4d9e-aa2a-5a64fd2090b2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_budget</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1e13b1c6-661e-4d9e-aa2a-5a64fd2090b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>fa09f0eb-a068-4c8e-b69d-7a80e2855302</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1e13b1c6-661e-4d9e-aa2a-5a64fd2090b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>type</value>
+         <variableId>df4a68ea-363b-4d4f-aa23-691f31731c1b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1e13b1c6-661e-4d9e-aa2a-5a64fd2090b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sotien</value>
+         <variableId>e3a88435-ae0b-4603-ba36-fcd85afa3103</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1e13b1c6-661e-4d9e-aa2a-5a64fd2090b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>chuky</value>
+         <variableId>b2c8b0f2-591b-48cf-ac39-313aac28b87b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

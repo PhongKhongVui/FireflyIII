@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cn li (mi ngy)_btn btn-xs btn-danger_1</name>
+   <tag></tag>
+   <elementGuidId>2f01abb1-ed8b-4739-bfb3-95a67e4a64e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-xs.btn-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='budgetList']/tbody/tr/td/div/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4cea5cc7-ce68-41c4-9fc8-7fe89fbae115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://localhost/budgets/delete/2</value>
+      <webElementGuid>54934cf6-b471-4ec4-961e-3104998899b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-xs btn-danger</value>
+      <webElementGuid>caa69a51-c0f9-47bc-adc9-c6a89518f90f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;budgetList&quot;)/tbody[@class=&quot;ui-sortable&quot;]/tr[1]/td[@class=&quot;hidden-sm hidden-xs&quot;]/div[@class=&quot;btn-group btn-group-xs&quot;]/a[@class=&quot;btn btn-xs btn-danger&quot;]</value>
+      <webElementGuid>6996025c-d721-4bcd-bb81-3a0b6df7bc5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='budgetList']/tbody/tr/td/div/a[3]</value>
+      <webElementGuid>494c0151-1161-44db-9ca8-fa7fe007367a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Còn lại (mỗi ngày)'])[1]/following::a[3]</value>
+      <webElementGuid>f4618ab0-05fa-4404-b166-6dfad2729175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đã chi (mỗi ngày)'])[1]/following::a[3]</value>
+      <webElementGuid>48dfc772-bd6d-47b2-8bd9-1d77cb6a3638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[1]/preceding::a[2]</value>
+      <webElementGuid>415c4179-0395-49f3-a842-a65557809dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[2]/preceding::a[7]</value>
+      <webElementGuid>12a0ff41-08e5-4235-a97e-714fb65c13ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/budgets/delete/2']</value>
+      <webElementGuid>09ff7350-a40c-44b7-99e7-0ed58d2ab802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/a[3]</value>
+      <webElementGuid>559a5f64-5c91-40bf-aa50-ccbe0115c597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/budgets/delete/2']</value>
+      <webElementGuid>21c1a5bf-2945-4f75-a9dc-b362af1e9cd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

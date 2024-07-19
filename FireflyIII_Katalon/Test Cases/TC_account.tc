@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bed9ec3-2b92-43d7-a173-ea3d8c5561ed</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a0c0eb6-5c81-47d0-a885-4df9b86ca8e9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f39c086-23e5-4510-aaba-4f44ccd737f5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8df7b067-9042-495d-b5ac-409d5a2f1e2b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6a0c0eb6-5c81-47d0-a885-4df9b86ca8e9</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f39c086-23e5-4510-aaba-4f44ccd737f5</id>
+      <masked>false</masked>
+      <name>BIC</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8df7b067-9042-495d-b5ac-409d5a2f1e2b</id>
+      <masked>false</masked>
+      <name>cost</name>
+   </variable>
+</TestCaseEntity>

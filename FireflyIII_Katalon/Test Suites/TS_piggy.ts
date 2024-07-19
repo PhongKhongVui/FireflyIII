@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_piggy</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f6c08c32-6ea3-4900-9866-a1c76e48f554</testSuiteGuid>
+   <testCaseLink>
+      <guid>25b9999b-c866-4588-a977-7b40fda32e13</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_piggy</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e25b5c6f-75c0-4b61-9bb3-cc4babbcd869</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_piggy</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e25b5c6f-75c0-4b61-9bb3-cc4babbcd869</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>e2fcd044-fe2e-4add-a43a-759475bc1936</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e25b5c6f-75c0-4b61-9bb3-cc4babbcd869</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>account</value>
+         <variableId>f192c7f1-7edf-4da4-964a-7247865202c0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e25b5c6f-75c0-4b61-9bb3-cc4babbcd869</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>số tiền</value>
+         <variableId>d3a9b429-bb1a-4570-8424-d0115f9c5d80</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e25b5c6f-75c0-4b61-9bb3-cc4babbcd869</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Group</value>
+         <variableId>cbc78026-20d8-4d6d-915a-da2ff7c6426e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
